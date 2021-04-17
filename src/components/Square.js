@@ -1,6 +1,6 @@
 import React,{Component} from 'react';
 
-const square=(props)=>{
+const Square=(props)=>{
     return (
         <button className="square" 
         onClick={() => props.onClick()}
