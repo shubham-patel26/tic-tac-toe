@@ -1,5 +1,3 @@
-import React,{Component} from 'react';
-
 const Square=(props)=>{
     return (
         <button className="square" 

@@ -1,6 +1,5 @@
 import React,{Component} from 'react';
 import Square from './Square';
-import {calculateWinner} from '../helpers/calculateWinner';
 class Board extends Component{
     
       renderSquare(i) {
