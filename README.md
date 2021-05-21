@@ -22,7 +22,7 @@
 ```bash
     git clone https://github.com/shubham-patel26/tic-tac-toe.git
 ```
-> #### then run the following command to install the dependencies of the project
+> #### go to the project directory and run the following command to install the dependencies of the project
 ```bash
     npm install
 ```
